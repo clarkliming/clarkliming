@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @clarkliming
-- 👀 I’m interested in personalized health care
-- 🌱 I’m currently learning programming for clinical trials
-- 💞️ I’m looking to collaborate on programming for clinical trials
+- 👀 I’m interested in statistics, software engineering
+- 🌱 I’m currently working on `mmrm` package
 - 📫 reach me out through github
 
 <!---
